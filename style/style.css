@@ -48,7 +48,7 @@ body{
   }
 
 
-  @media screen  and (max-width: 768px) {
+  @media screen  and (max-width: 768px) and (min-width:300px){
     .keys{
       display: block;
       margin-left: 150px;
